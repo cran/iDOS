@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(VennDiagram)
+importFrom("stats", "cor.test", "p.adjust", "sd", "t.test", "var.test",
+             "wilcox.test")
+importFrom("utils", "read.table", "write.table")

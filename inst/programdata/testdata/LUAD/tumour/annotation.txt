@@ -1,0 +1,16 @@
+ID	Tumour	gender	time	event	time.unit
+TCGA.38.4625	Yes	female	97.60875513	0	months
+TCGA.38.4626	Yes	female	85.19835841	0	months
+TCGA.38.4627	Yes	female	37.65800274	1	months
+TCGA.38.4632	Yes	male	44.55266758	1	months
+TCGA.44.2655	Yes	female	18.84541724	0	months
+TCGA.44.2657	Yes	female	13.13269494	0	months
+TCGA.44.2661	Yes	female	3.381668947	0	months
+TCGA.44.2662	Yes	male	15.75923393	0	months
+TCGA.44.2665	Yes	female	13.13269494	0	months
+TCGA.44.2668	Yes	male	8.076607387	0	months
+TCGA.44.3396	Yes	female	10.21067031	0	months
+TCGA.44.5645	Yes	female	6.829001368	0	months
+TCGA.44.6145	Yes	female	3.348837209	0	months
+TCGA.44.6146	Yes	male	9.915184679	0	months
+TCGA.44.6147	Yes	female	7.748290014	0	months

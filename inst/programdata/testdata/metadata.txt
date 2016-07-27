@@ -1,0 +1,3 @@
+dataset	mRNA.T	mRNA.N	CNA.log2	CNA.calls	CNA.fractions	annotations
+BLCA	mRNA_abundance_hgncsymbol.txt.gz	mRNA_abundance_hgncsymbol.txt.gz	cna_log2_hgncsymbol.txt.gz	cna_calls_hgncsymbol.txt.gz	cna_fractions_hgncsymbol.txt.gz	annotation.txt
+LUAD	mRNA_abundance_hgncsymbol.txt.gz	mRNA_abundance_hgncsymbol.txt.gz	cna_log2_hgncsymbol.txt.gz	cna_calls_hgncsymbol.txt.gz	cna_fractions_hgncsymbol.txt.gz	annotation.txt
